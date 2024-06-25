@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣",
+            "name": "豆瓣推荐丨公众号【蜗牛科技仓】",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0

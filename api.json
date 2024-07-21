@@ -1745,6 +1745,31 @@
         },
         {
             "name": "推荐",
+            "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "xiguatv",
+                    "mytv",
+                    "dsj",
+                    "FYNB",
+                    "NBY",
+                    "BTJSON"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
+        },
+        {
+            "name": "推荐2",
             "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
             "type": "1",
             "status": "normal",

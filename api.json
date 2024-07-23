@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;f78f6f66df4f43641bd81e88b646d385",
+    "spider": "./spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "logo": "https://pan.shangui.cc/f/66yatp/t017acbfe7120dcf421.gif",
     "warningText":"【蜗牛影视】提示:
@@ -156,16 +156,6 @@
             "filterable": 1
         },
         {
-            "key": "胖虎影视",
-            "name": "胖虎影视",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://physvod.com"
-        },
-        {
             "key": "剧圈影视",
             "name": "剧圈影视",
             "type": 3,
@@ -173,16 +163,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "忍者影视",
-            "name": "忍者影视",
-            "type": 3,
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://rzys.xyz/"
         },
         {
             "key": "毛驴影视",
@@ -212,15 +192,6 @@
             "filterable": 1
         },
         {
-            "key": "视觉影视",
-            "name": "视觉影视",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "疯狗影视",
             "name": "疯狗影视",
             "type": 3,
@@ -230,10 +201,37 @@
             "filterable": 1
         },
         {
-            "key": "耐看影视",
-            "name": "耐看影视",
+            "key": "全网影视",
+            "name": "全网影视",
             "type": 3,
-            "api": "csp_Nkdy",
+            "api": "csp_Quanwk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "最新影视",
+            "name": "最新影视",
+            "type": 3,
+            "api": "csp_Zx1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "爱看影视",
+            "name": "爱看影视",
+            "type": 3,
+            "api": "csp_Ikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "桃子影视",
+            "name": "桃子影视",
+            "type": 3,
+            "api": "csp_Taozi",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -454,6 +452,15 @@
             "ext": "https://vidhub1.cc"
         },
         {
+            "key": "达达龟",
+            "name": "达达龟",
+            "type": 3,
+            "api": "csp_Dadag",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "素白白",
             "name": "素白白",
             "type": 3,
@@ -527,13 +534,6 @@
             "ext": "./JS/看了么.js"
         },
         {
-            "key": "达达龟",
-            "name": "达达龟",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/达达龟.js"
-        },
-        {
             "key": "茶杯狐",
             "name": "茶杯狐",
             "type": 3,
@@ -595,13 +595,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/碟调影视.js"
-        },
-        {
-            "key": "大米星球",
-            "name": "大米星球",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/大米星球.js"
         },
         {
             "key": "欧帝影院",
@@ -1311,6 +1304,23 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://mihdr.top",
+                "danmu": true
+            },
+            "jar": "./danmu.jar;md5;3d2afc747cc1af7d1bdf02af7ffbdeab"
+        },
+        {
+            "key": "夸克奥秘弹幕",
+            "name": "弹幕｜奥秘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://vip.omii.top",
                 "danmu": true
             },
             "jar": "./danmu.jar;md5;3d2afc747cc1af7d1bdf02af7ffbdeab"

@@ -16,6 +16,6 @@ https://gh.xxooo.cf/https://raw.githubusercontent.com/woniuxs/BoxBM/main/api.jso
 
 # TVBox系列软件
 
-https://www.123pan.com/s/sPNbVv-67SXv
+https://www.123pan.com/s/W3FZVv-77rj3.html
 
 
